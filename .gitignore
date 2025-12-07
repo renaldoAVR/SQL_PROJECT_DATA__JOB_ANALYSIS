@@ -1,0 +1,7 @@
+/.vscode
+/argv.json
+/cli
+/csv_files
+/extensions
+/postgres.session.sql
+/sql_course.session.sql
